@@ -111,6 +111,16 @@ hr {
     line-height: 3;
 }
 
+.contact-me p {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.contact-me h3 {
+    width: 90%;
+    margin: 0 auto
+}
+
 .bottom-container {
     height: 100px;
     background-color:#66BFBF;
